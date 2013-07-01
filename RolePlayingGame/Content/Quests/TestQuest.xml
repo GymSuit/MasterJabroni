@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="RolePlayingGameData.Quest">
+    <Name>Test Quest</Name>
+    <Description> Testing this shit, talk to Manny!</Description>
+    <ObjectiveMessage />
+    <CompletionMessage>I cant believe that worked!</CompletionMessage>
+    <GearRequirements />
+    <MonsterRequirements />
+    <FixedCombatEntries />
+    <ChestEntries />
+    <DestinationMapContentName>Map002</DestinationMapContentName>
+    <DestinationNpcContentName>JangElder</DestinationNpcContentName>
+    <DestinationObjectiveMessage>Go and speak with Manny.</DestinationObjectiveMessage>
+    <ExperienceReward>100</ExperienceReward>
+    <GoldReward>50</GoldReward>
+    <GearRewardContentNames />
+  </Asset>
+</XnaContent>
+
